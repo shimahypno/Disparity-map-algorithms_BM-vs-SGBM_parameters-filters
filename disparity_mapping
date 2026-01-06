@@ -1,2 +1,3 @@
     mkdir my-folder
     cd my-folder
+touch .README.md
